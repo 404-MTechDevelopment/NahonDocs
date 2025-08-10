@@ -47,4 +47,4 @@
 
 ---
 Администрация проекта **Nahon**  
-Актуальная версия оферты: [https://nahon.top/public_offer](https://nahon.top/docs/public_offer)
+Актуальная версия оферты: [https://nahon.top/docs/public_offer](https://nahon.top/docs/public_offer)
