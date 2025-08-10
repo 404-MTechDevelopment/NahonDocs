@@ -46,5 +46,5 @@
 8.2. Администрация оставляет за собой право изменять Политику. Новая редакция вступает в силу с момента публикации на сайте.
 
 ---
-Актуальная версия Политики: [https://nahon.top/privacy](https://nahon.top/privacy)  
+Актуальная версия Политики: [https://nahon.top/docs/privacy_policy](https://nahon.top/docs/privacy_policy)  
 Администрация проекта **Nahon**
