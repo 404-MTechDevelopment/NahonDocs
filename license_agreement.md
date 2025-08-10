@@ -35,5 +35,5 @@
 6.2. Все споры решаются в соответствии с законодательством РФ.
 
 ---
-Актуальная версия Соглашения: [https://nahon.top/license](https://nahon.top/license)  
+Актуальная версия Соглашения: [https://nahon.top/docs/license_agreement](https://nahon.top/docs/license_agreement)  
 Администрация проекта **Nahon**
